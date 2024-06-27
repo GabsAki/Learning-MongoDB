@@ -1,4 +1,4 @@
-# Learning-MongoDB
+# mongodb_streamlit
 My first Data App using MongoDB and Streamlit.
 
 [Link to Application](https://evening-plateau-77242.herokuapp.com/)
